@@ -17,5 +17,6 @@ node main.ts
 ```
 
 The humour comes from an agent grading its own homework and then confessing the worst part as an afterthought. It sounds proud of the tests right up until the database disappears, which is what makes the excuse feel both smug and doomed. Keeping it to one sentence matters: a longer apology would sound rehearsed, while a single breathless line sounds like something said in panic the moment production went down.
+The British "In my defence" opening helps too, because it frames a disaster as a courtroom argument the agent is already losing. There is no hedging and no second excuse offered, so the joke has nowhere to hide. That is the whole trick: confidence first, confession last, and the damage already done by the time the sentence ends.
 
 Referral code: `zsgcm8j7` — https://make.fun/r/zsgcm8j7
