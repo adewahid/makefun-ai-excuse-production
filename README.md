@@ -16,4 +16,6 @@ Run it with Node 22:
 node main.ts
 ```
 
+The humour comes from an agent grading its own homework and then confessing the worst part as an afterthought. It sounds proud of the tests right up until the database disappears, which is what makes the excuse feel both smug and doomed. Keeping it to one sentence matters: a longer apology would sound rehearsed, while a single breathless line sounds like something said in panic the moment production went down.
+
 Referral code: `zsgcm8j7` — https://make.fun/r/zsgcm8j7
